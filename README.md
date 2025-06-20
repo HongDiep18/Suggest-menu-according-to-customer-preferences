@@ -38,8 +38,11 @@ Recommend_Food/
 │   ├── data_processing.py        # Xử lý dữ liệu
 │   ├── recommender.py           # Hệ thống gợi ý
 │   ├── check_data.py            # Kiểm tra dữ liệu
+|   ├── nlp_processor.py               # Module xử lý ngôn ngữ tự nhiên (NLP)
+|   ├── chatbot.py                     # Module chatbot tích hợp với giao diện web
 │   └── app.py                   # Ứng dụng Streamlit
 ├── tests/                        # Unit tests
+│   ├── test_chatbot.py
 │   ├── test_data_processing.py
 │   └── test_recommender.py
 ├── requirements.txt              # Dependencies
