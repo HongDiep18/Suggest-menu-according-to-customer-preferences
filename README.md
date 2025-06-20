@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hệ thống Gợi ý Thực đơn Nhà hàng
 
 ##  Mục tiêu dự án
@@ -169,6 +169,4 @@ python -m pytest tests/test_chatbot.py -v
 ## Bước 6: Chạy ứng dụng
 streamlit run src/app.py
 '''
-=======
 
->>>>>>> c175f437a6ece0d8148014aa8672066afe001257
